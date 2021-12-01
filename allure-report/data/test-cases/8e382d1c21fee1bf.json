@@ -1,0 +1,186 @@
+{
+  "uid" : "8e382d1c21fee1bf",
+  "name" : "Then Page title should be 'Explore our Work | EPAM Customer Stories, Brochures & Accelerators'",
+  "fullName" : "Epam page: 'Our Work' page.Then Page title should be 'Explore our Work | EPAM Customer Stories, Brochures & Accelerators'",
+  "historyId" : "ef37eb4387636550b0a980e90f408b10",
+  "time" : {
+    "start" : 1638347275184,
+    "stop" : 1638347275198,
+    "duration" : 14
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Epam page: 'Our Work' page"
+  }, {
+    "name" : "testClass",
+    "value" : "Epam page: 'Our Work' page"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then Page title should be 'Explore our Work | EPAM Customer Stories, Brochures & Accelerators'"
+  }, {
+    "name" : "package",
+    "value" : "Epam page: 'Our Work' page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-96.0.4664.45"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "db9aec5197865fce",
+      "status" : "passed",
+      "time" : {
+        "start" : 1638346871973,
+        "stop" : 1638346871985,
+        "duration" : 12
+      }
+    }, {
+      "uid" : "e3c3c480279109ac",
+      "status" : "passed",
+      "time" : {
+        "start" : 1638345070297,
+        "stop" : 1638345070313,
+        "duration" : 16
+      }
+    }, {
+      "uid" : "bae9e97e70e7e25b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1638344657127,
+        "stop" : 1638344657140,
+        "duration" : 13
+      }
+    }, {
+      "uid" : "2ac85af0c19fe57f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1638343158874,
+        "stop" : 1638343158884,
+        "duration" : 10
+      }
+    }, {
+      "uid" : "c40abfd8999aa2e0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1638301664344,
+        "stop" : 1638301664357,
+        "duration" : 13
+      }
+    }, {
+      "uid" : "76fa4dcc24f17cf6",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1638301534260,
+        "stop" : 1638301534260,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "62e857ff08a79b92",
+      "status" : "passed",
+      "time" : {
+        "start" : 1638301137708,
+        "stop" : 1638301137721,
+        "duration" : 13
+      }
+    }, {
+      "uid" : "99fcc8f90799ab0c",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1638301049783,
+        "stop" : 1638301049783,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "5559c96cea50415f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1638300894765,
+        "stop" : 1638300894785,
+        "duration" : 20
+      }
+    }, {
+      "uid" : "d3b2ec98d80da35c",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1638300622480,
+        "stop" : 1638300622480,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "8a9b36cb57fd78bb",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1638300548383,
+        "stop" : 1638300548384,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "994504de6ca76e01",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1638299576811,
+        "stop" : 1638299576812,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "387c2cec444d4e62",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1638298997308,
+        "stop" : 1638298997309,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "17754c2485d5fbab",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1638298881613,
+        "stop" : 1638298881614,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "8bf9027a8954c8a6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1638272380718,
+        "stop" : 1638272380728,
+        "duration" : 10
+      }
+    }, {
+      "uid" : "4c9b4336bf3f4f76",
+      "status" : "passed",
+      "time" : {
+        "start" : 1638271938358,
+        "stop" : 1638271938375,
+        "duration" : 17
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8e382d1c21fee1bf.json",
+  "parameterValues" : [ "chrome-96.0.4664.45" ]
+}

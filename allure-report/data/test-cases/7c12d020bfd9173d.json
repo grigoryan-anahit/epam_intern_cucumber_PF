@@ -1,0 +1,72 @@
+{
+  "uid" : "7c12d020bfd9173d",
+  "name" : "Given I open epam.com",
+  "fullName" : "Epam page: Search.Given I open epam.com",
+  "historyId" : "6857f50f50103d3b3eecfa87374c3c95",
+  "time" : {
+    "start" : 1638346843294,
+    "stop" : 1638346849299,
+    "duration" : 6005
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "981d46fe8d2c5dc4",
+      "name" : "Screenshot",
+      "source" : "981d46fe8d2c5dc4.png",
+      "type" : "image/png",
+      "size" : 1047802
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Epam page: Search"
+  }, {
+    "name" : "testClass",
+    "value" : "Epam page: Search"
+  }, {
+    "name" : "testMethod",
+    "value" : "Given I open epam.com"
+  }, {
+    "name" : "package",
+    "value" : "Epam page: Search"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-96.0.4664.45"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7c12d020bfd9173d.json",
+  "parameterValues" : [ "chrome-96.0.4664.45" ]
+}

@@ -1,0 +1,210 @@
+{
+  "uid" : "4b69071a81c5a0f3",
+  "name" : "Given I go to 'Our Work' page",
+  "fullName" : "Epam page: 'Our Work' page.Given I go to 'Our Work' page",
+  "historyId" : "b4796090515701f2eceea34a0fc3ab90",
+  "time" : {
+    "start" : 1638347260392,
+    "stop" : 1638347275183,
+    "duration" : 14791
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Epam page: 'Our Work' page"
+  }, {
+    "name" : "testClass",
+    "value" : "Epam page: 'Our Work' page"
+  }, {
+    "name" : "testMethod",
+    "value" : "Given I go to 'Our Work' page"
+  }, {
+    "name" : "package",
+    "value" : "Epam page: 'Our Work' page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-96.0.4664.45"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "7e7152d6a5c9e9a8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1638346859644,
+        "stop" : 1638346871973,
+        "duration" : 12329
+      }
+    }, {
+      "uid" : "1a4d593a26dfdb81",
+      "status" : "passed",
+      "time" : {
+        "start" : 1638345058122,
+        "stop" : 1638345070297,
+        "duration" : 12175
+      }
+    }, {
+      "uid" : "c57873839a1e6a6e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1638344644219,
+        "stop" : 1638344657127,
+        "duration" : 12908
+      }
+    }, {
+      "uid" : "658065bacdc504f3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1638343144425,
+        "stop" : 1638343158874,
+        "duration" : 14449
+      }
+    }, {
+      "uid" : "ef60fa1e26bc7209",
+      "status" : "passed",
+      "time" : {
+        "start" : 1638301652006,
+        "stop" : 1638301664344,
+        "duration" : 12338
+      }
+    }, {
+      "uid" : "bfcb91b544a4fa71",
+      "status" : "broken",
+      "statusDetails" : "element not interactable",
+      "time" : {
+        "start" : 1638301529086,
+        "stop" : 1638301534260,
+        "duration" : 5174
+      }
+    }, {
+      "uid" : "59ee73038fc6e31f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1638301125502,
+        "stop" : 1638301137708,
+        "duration" : 12206
+      }
+    }, {
+      "uid" : "bb83d822d042aebb",
+      "status" : "broken",
+      "statusDetails" : "element not interactable",
+      "time" : {
+        "start" : 1638301049553,
+        "stop" : 1638301049783,
+        "duration" : 230
+      }
+    }, {
+      "uid" : "6db0bd4bb9e796a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1638300888077,
+        "stop" : 1638300894765,
+        "duration" : 6688
+      }
+    }, {
+      "uid" : "88547e76b0b249b4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1638300818916,
+        "stop" : 1638300825445,
+        "duration" : 6529
+      }
+    }, {
+      "uid" : "7d4927f4b5f39a80",
+      "status" : "broken",
+      "statusDetails" : "element not interactable",
+      "time" : {
+        "start" : 1638300714773,
+        "stop" : 1638300721481,
+        "duration" : 6708
+      }
+    }, {
+      "uid" : "bf8dc25dac804e80",
+      "status" : "broken",
+      "statusDetails" : "element not interactable",
+      "time" : {
+        "start" : 1638300615440,
+        "stop" : 1638300622480,
+        "duration" : 7040
+      }
+    }, {
+      "uid" : "457f3ed07882a1de",
+      "status" : "broken",
+      "statusDetails" : "element not interactable",
+      "time" : {
+        "start" : 1638300546017,
+        "stop" : 1638300548383,
+        "duration" : 2366
+      }
+    }, {
+      "uid" : "f0d049a6b14a7223",
+      "status" : "broken",
+      "statusDetails" : "element not interactable",
+      "time" : {
+        "start" : 1638299573336,
+        "stop" : 1638299576811,
+        "duration" : 3475
+      }
+    }, {
+      "uid" : "71c6e5f4e0da2c0f",
+      "status" : "broken",
+      "statusDetails" : "element not interactable",
+      "time" : {
+        "start" : 1638298995868,
+        "stop" : 1638298997308,
+        "duration" : 1440
+      }
+    }, {
+      "uid" : "92c93932ffb8760a",
+      "status" : "broken",
+      "statusDetails" : "TypeError: pageProvider(...).topNavigationUl is not a function",
+      "time" : {
+        "start" : 1638298879135,
+        "stop" : 1638298881613,
+        "duration" : 2478
+      }
+    }, {
+      "uid" : "4fd162a9c6ce33d3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1638272373798,
+        "stop" : 1638272380718,
+        "duration" : 6920
+      }
+    }, {
+      "uid" : "ee8fe74678dd0da5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1638271931461,
+        "stop" : 1638271938358,
+        "duration" : 6897
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4b69071a81c5a0f3.json",
+  "parameterValues" : [ "chrome-96.0.4664.45" ]
+}

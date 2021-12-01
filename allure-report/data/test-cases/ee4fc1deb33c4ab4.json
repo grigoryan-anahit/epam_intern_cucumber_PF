@@ -1,0 +1,211 @@
+{
+  "uid" : "ee4fc1deb33c4ab4",
+  "name" : "Given I open epam.com",
+  "fullName" : "Epam page: open Epam page check title.Given I open epam.com",
+  "historyId" : "5d84da7c30240a7ae5cffff2ea5bca70",
+  "time" : {
+    "start" : 1638347087013,
+    "stop" : 1638347103955,
+    "duration" : 16942
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Epam page: open Epam page check title"
+  }, {
+    "name" : "testClass",
+    "value" : "Epam page: open Epam page check title"
+  }, {
+    "name" : "testMethod",
+    "value" : "Given I open epam.com"
+  }, {
+    "name" : "package",
+    "value" : "Epam page: open Epam page check title"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-96.0.4664.45"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "ba35a55f3692b86b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1638346680360,
+        "stop" : 1638346704286,
+        "duration" : 23926
+      }
+    }, {
+      "uid" : "b843d40b2f5a12bf",
+      "status" : "passed",
+      "time" : {
+        "start" : 1638345019266,
+        "stop" : 1638345037142,
+        "duration" : 17876
+      }
+    }, {
+      "uid" : "f9a593bc10ac661d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1638344607350,
+        "stop" : 1638344623617,
+        "duration" : 16267
+      }
+    }, {
+      "uid" : "ff740ca71799aac7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1638343105291,
+        "stop" : 1638343122564,
+        "duration" : 17273
+      }
+    }, {
+      "uid" : "96c9223948d5484a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1638301619583,
+        "stop" : 1638301629639,
+        "duration" : 10056
+      }
+    }, {
+      "uid" : "10343e74337fb079",
+      "status" : "passed",
+      "time" : {
+        "start" : 1638301495569,
+        "stop" : 1638301506761,
+        "duration" : 11192
+      }
+    }, {
+      "uid" : "489701adb2e649e7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1638301092809,
+        "stop" : 1638301103800,
+        "duration" : 10991
+      }
+    }, {
+      "uid" : "7812e4bc8eab9752",
+      "status" : "passed",
+      "time" : {
+        "start" : 1638301015741,
+        "stop" : 1638301027491,
+        "duration" : 11750
+      }
+    }, {
+      "uid" : "45dc8e7f02e4facb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1638300855687,
+        "stop" : 1638300866060,
+        "duration" : 10373
+      }
+    }, {
+      "uid" : "ca0689ccba7dcb29",
+      "status" : "passed",
+      "time" : {
+        "start" : 1638300784296,
+        "stop" : 1638300795215,
+        "duration" : 10919
+      }
+    }, {
+      "uid" : "9681fdc05ab9edfa",
+      "status" : "passed",
+      "time" : {
+        "start" : 1638300681978,
+        "stop" : 1638300693186,
+        "duration" : 11208
+      }
+    }, {
+      "uid" : "1f09ecb6afcdd173",
+      "status" : "passed",
+      "time" : {
+        "start" : 1638300581750,
+        "stop" : 1638300592810,
+        "duration" : 11060
+      }
+    }, {
+      "uid" : "cd5fa782655481a1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1638300513973,
+        "stop" : 1638300523944,
+        "duration" : 9971
+      }
+    }, {
+      "uid" : "97e11e835a829c0b",
+      "status" : "broken",
+      "statusDetails" : "RequestError: read ECONNRESET",
+      "time" : {
+        "start" : 1638299796326,
+        "stop" : 1638299803760,
+        "duration" : 7434
+      }
+    }, {
+      "uid" : "f3d90c784ac65f41",
+      "status" : "passed",
+      "time" : {
+        "start" : 1638299539800,
+        "stop" : 1638299551139,
+        "duration" : 11339
+      }
+    }, {
+      "uid" : "6a726d8871e49968",
+      "status" : "passed",
+      "time" : {
+        "start" : 1638298960313,
+        "stop" : 1638298971836,
+        "duration" : 11523
+      }
+    }, {
+      "uid" : "6ad211417da78f9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1638298845201,
+        "stop" : 1638298857122,
+        "duration" : 11921
+      }
+    }, {
+      "uid" : "6c3b50d387952089",
+      "status" : "passed",
+      "time" : {
+        "start" : 1638272247955,
+        "stop" : 1638272269080,
+        "duration" : 21125
+      }
+    }, {
+      "uid" : "919a170a997afaf7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1638271807219,
+        "stop" : 1638271825748,
+        "duration" : 18529
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ee4fc1deb33c4ab4.json",
+  "parameterValues" : [ "chrome-96.0.4664.45" ]
+}

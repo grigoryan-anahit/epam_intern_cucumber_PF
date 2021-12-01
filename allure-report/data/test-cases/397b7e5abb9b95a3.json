@@ -1,0 +1,82 @@
+{
+  "uid" : "397b7e5abb9b95a3",
+  "name" : "Given I move mouse to navigation menu \"5\" items",
+  "fullName" : "Epam page: Navigation menu hover.Given I move mouse to navigation menu \"5\" items",
+  "historyId" : "76fcf4cef121a2170c1d00257364568d",
+  "time" : {
+    "start" : 1638347228105,
+    "stop" : 1638347236182,
+    "duration" : 8077
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Epam page: Navigation menu hover"
+  }, {
+    "name" : "testClass",
+    "value" : "Epam page: Navigation menu hover"
+  }, {
+    "name" : "testMethod",
+    "value" : "Given I move mouse to navigation menu \"5\" items"
+  }, {
+    "name" : "package",
+    "value" : "Epam page: Navigation menu hover"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-96.0.4664.45"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "3c9a19d643ddf8b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1638346827107,
+        "stop" : 1638346835172,
+        "duration" : 8065
+      }
+    }, {
+      "uid" : "e8a6748e458b5bf9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1638272350107,
+        "stop" : 1638272350234,
+        "duration" : 127
+      }
+    }, {
+      "uid" : "18deb0f3597db35a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1638271906658,
+        "stop" : 1638271906786,
+        "duration" : 128
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "397b7e5abb9b95a3.json",
+  "parameterValues" : [ "chrome-96.0.4664.45" ]
+}

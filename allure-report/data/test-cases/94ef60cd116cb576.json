@@ -1,0 +1,210 @@
+{
+  "uid" : "94ef60cd116cb576",
+  "name" : "When Page title should be 'EPAM | Enterprise Software Development, Design & Consulting'",
+  "fullName" : "Epam page: open Epam page check title.When Page title should be 'EPAM | Enterprise Software Development, Design & Consulting'",
+  "historyId" : "42903df8d3ef232fc88128d5263147ac",
+  "time" : {
+    "start" : 1638347103955,
+    "stop" : 1638347106981,
+    "duration" : 3026
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Epam page: open Epam page check title"
+  }, {
+    "name" : "testClass",
+    "value" : "Epam page: open Epam page check title"
+  }, {
+    "name" : "testMethod",
+    "value" : "When Page title should be 'EPAM | Enterprise Software Development, Design & Consulting'"
+  }, {
+    "name" : "package",
+    "value" : "Epam page: open Epam page check title"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-96.0.4664.45"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "b7c6c201e7c586b2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1638346704286,
+        "stop" : 1638346707307,
+        "duration" : 3021
+      }
+    }, {
+      "uid" : "dbb6914f7af321af",
+      "status" : "passed",
+      "time" : {
+        "start" : 1638345037142,
+        "stop" : 1638345040163,
+        "duration" : 3021
+      }
+    }, {
+      "uid" : "c4503ff459999ea2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1638344623617,
+        "stop" : 1638344626643,
+        "duration" : 3026
+      }
+    }, {
+      "uid" : "7e12b3f67d0f31cd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1638343122564,
+        "stop" : 1638343125590,
+        "duration" : 3026
+      }
+    }, {
+      "uid" : "295a12534b6c2d2e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1638301629640,
+        "stop" : 1638301632672,
+        "duration" : 3032
+      }
+    }, {
+      "uid" : "643391047b228706",
+      "status" : "passed",
+      "time" : {
+        "start" : 1638301506761,
+        "stop" : 1638301509788,
+        "duration" : 3027
+      }
+    }, {
+      "uid" : "43a922f4b7091ce0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1638301103800,
+        "stop" : 1638301106840,
+        "duration" : 3040
+      }
+    }, {
+      "uid" : "5d99ff0a9b9c478e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1638301027492,
+        "stop" : 1638301030519,
+        "duration" : 3027
+      }
+    }, {
+      "uid" : "6922278c7af91854",
+      "status" : "passed",
+      "time" : {
+        "start" : 1638300866060,
+        "stop" : 1638300869088,
+        "duration" : 3028
+      }
+    }, {
+      "uid" : "2c01af77ce2be79e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1638300795215,
+        "stop" : 1638300798247,
+        "duration" : 3032
+      }
+    }, {
+      "uid" : "9247a9ed9d8c660e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1638300693186,
+        "stop" : 1638300696219,
+        "duration" : 3033
+      }
+    }, {
+      "uid" : "af84901292a61d1b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1638300592810,
+        "stop" : 1638300595847,
+        "duration" : 3037
+      }
+    }, {
+      "uid" : "b211e5ef54ed714b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1638300523945,
+        "stop" : 1638300526983,
+        "duration" : 3038
+      }
+    }, {
+      "uid" : "d77101cf14d46fb3",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1638299803760,
+        "stop" : 1638299803761,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "1b20d7b07ed7c50f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1638299551139,
+        "stop" : 1638299554175,
+        "duration" : 3036
+      }
+    }, {
+      "uid" : "c077776871a4a716",
+      "status" : "passed",
+      "time" : {
+        "start" : 1638298971837,
+        "stop" : 1638298974868,
+        "duration" : 3031
+      }
+    }, {
+      "uid" : "7b7a6bd451314634",
+      "status" : "passed",
+      "time" : {
+        "start" : 1638298857122,
+        "stop" : 1638298860155,
+        "duration" : 3033
+      }
+    }, {
+      "uid" : "2f45547afd061314",
+      "status" : "passed",
+      "time" : {
+        "start" : 1638272269080,
+        "stop" : 1638272272110,
+        "duration" : 3030
+      }
+    }, {
+      "uid" : "37d126635df24b00",
+      "status" : "passed",
+      "time" : {
+        "start" : 1638271825748,
+        "stop" : 1638271828765,
+        "duration" : 3017
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "94ef60cd116cb576.json",
+  "parameterValues" : [ "chrome-96.0.4664.45" ]
+}

@@ -1,0 +1,82 @@
+{
+  "uid" : "cc1af3965e5d6abe",
+  "name" : "Then Each menu item \"0\" should change color to \"rgba(118,205,216,1)\"",
+  "fullName" : "Epam page: Navigation menu hover.Then Each menu item \"0\" should change color to \"rgba(118,205,216,1)\"",
+  "historyId" : "5b787d6cd3cffe59471b666c9aa84bb8",
+  "time" : {
+    "start" : 1638347123845,
+    "stop" : 1638347131955,
+    "duration" : 8110
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Epam page: Navigation menu hover"
+  }, {
+    "name" : "testClass",
+    "value" : "Epam page: Navigation menu hover"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then Each menu item \"0\" should change color to \"rgba(118,205,216,1)\""
+  }, {
+    "name" : "package",
+    "value" : "Epam page: Navigation menu hover"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-96.0.4664.45"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "e811727fb956c1ad",
+      "status" : "passed",
+      "time" : {
+        "start" : 1638346722787,
+        "stop" : 1638346730911,
+        "duration" : 8124
+      }
+    }, {
+      "uid" : "700b1e996e6d4ef",
+      "status" : "passed",
+      "time" : {
+        "start" : 1638272279410,
+        "stop" : 1638272287517,
+        "duration" : 8107
+      }
+    }, {
+      "uid" : "587614eafa9a841d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1638271836043,
+        "stop" : 1638271844154,
+        "duration" : 8111
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "cc1af3965e5d6abe.json",
+  "parameterValues" : [ "chrome-96.0.4664.45" ]
+}
