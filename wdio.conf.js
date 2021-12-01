@@ -135,7 +135,7 @@ exports.config = {
     // see also: https://webdriver.io/docs/dot-reporter
     reporters: ['spec',['allure', {
         outputDir: 'allure-results',
-        disableWebdriverStepsReporting: true,
+         disableWebdriverStepsReporting: true,
         disableWebdriverScreenshotsReporting: false,
     }]],
 
@@ -260,9 +260,9 @@ exports.config = {
      * @param {number}             result.duration  duration of scenario in milliseconds
      * @param {Object}             context          Cucumber World object
      */
-    afterStep: function (test, scenario, { error, duration, passed }) {
+    afterStep:async function (test, scenario, { error, duration, passed }) {
         if (error) {
-            browser.takeScreenshot();
+           await browser.takeScreenshot();
         }
     },
     /**
@@ -304,7 +304,11 @@ exports.config = {
      */
     // after: function (result, capabilities, specs) {
     // },
-
+    afterTest: async function(test, context, { error, result, duration, passed, retries }) {
+        if (!passed) {
+            await browser.takeScreenshot();
+        }
+    },
     /**
      * Gets executed right after terminating the webdriver session.
      * @param {Object} config wdio configuration object
